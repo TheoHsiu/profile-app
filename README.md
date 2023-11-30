@@ -6,7 +6,7 @@ The app runs on Python 3.8.8, Kivy, and KivyMD. I used Visual Studio Code 1.84.2
 - From Terminal, install Kivy and KivyMD with pip:
 	"pip install kivy"
 	"pip install https://github.com/kivymd/KivyMD/archive/master.zip"
-- Run profile.py with "python profile.py"
+- Run profile_app.py with "python profile_app.py"
 
 Know issues:
 1) "Tell us aboout yourself" display shows long texts with "..."
